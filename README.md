@@ -2,7 +2,7 @@
 
 Code, data tables and results for
 
-> D. Mukherjee, *Synthetic Benchmarks and Real-Data Cross-Validation of Non-Parametric H(z) Reconstruction: A Case Study of Five Implementations* (revised version, submitted to the Journal of Astrophysics and Astronomy).
+> D. Mukherjee, *The Limits of Synthetic Validation: A Real-Data-Confronted Benchmark of Non-Parametric $H(z)$ Reconstruction*).
 
 Everything in the paper — every table, figure and number — is produced by the scripts in this repository from fixed random seeds.
 

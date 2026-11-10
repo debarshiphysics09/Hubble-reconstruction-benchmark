@@ -1,0 +1,2612 @@
+{
+ "bias_GP_1": 0.1678499178798139,
+ "ratio_meanof_GP_1": 3.3523454544435953,
+ "ratio_ofmean_GP_1": 2.3539674465784217,
+ "ratio_medof_GP_1": 1.7859708328153938,
+ "bias_GP_3": 0.43950577220067377,
+ "ratio_meanof_GP_3": 2.9735321416182723,
+ "ratio_ofmean_GP_3": 2.106825764320211,
+ "ratio_medof_GP_3": 1.6331414901607515,
+ "bias_GP_5": 0.7234341381673991,
+ "ratio_meanof_GP_5": 2.7317958613003404,
+ "ratio_ofmean_GP_5": 1.8910419511725154,
+ "ratio_medof_GP_5": 1.5402390403853183,
+ "bias_Polynomial_1": 0.005825912441154646,
+ "ratio_meanof_Polynomial_1": 3.414052088730928,
+ "ratio_ofmean_Polynomial_1": 2.481988540713344,
+ "ratio_medof_Polynomial_1": 1.8271985459506648,
+ "bias_Polynomial_3": 0.00582591244115289,
+ "ratio_meanof_Polynomial_3": 3.40932084658689,
+ "ratio_ofmean_Polynomial_3": 2.48006857754571,
+ "ratio_medof_Polynomial_3": 1.8311840967570694,
+ "bias_Polynomial_5": 0.00582591244114864,
+ "ratio_meanof_Polynomial_5": 3.4084883572480478,
+ "ratio_ofmean_Polynomial_5": 2.4799816825929337,
+ "ratio_medof_Polynomial_5": 1.8341517682726942,
+ "bias_NN_1": 1.1793499339278253,
+ "ratio_meanof_NN_1": 11.2182567489238,
+ "ratio_ofmean_NN_1": 6.964418339240976,
+ "ratio_medof_NN_1": 4.955879450319236,
+ "bias_NN_3": 1.1793499339278253,
+ "ratio_meanof_NN_3": 5.466727609038683,
+ "ratio_ofmean_NN_3": 3.4211456733672456,
+ "ratio_medof_NN_3": 2.3432069772586845,
+ "bias_NN_5": 1.1793499339278253,
+ "ratio_meanof_NN_5": 4.664885572483266,
+ "ratio_ofmean_NN_5": 3.0058615404683646,
+ "ratio_medof_NN_5": 2.267158560266952,
+ "bias_Spline_1": 0.06839091123666027,
+ "ratio_meanof_Spline_1": 5.533159771461306,
+ "ratio_ofmean_Spline_1": 5.03309294153247,
+ "ratio_medof_Spline_1": 2.088672700796829,
+ "bias_Spline_3": 0.06839091123666431,
+ "ratio_meanof_Spline_3": 5.432610055564832,
+ "ratio_ofmean_Spline_3": 5.007741678240036,
+ "ratio_medof_Spline_3": 2.1444713939828755,
+ "bias_Spline_5": 0.06839091123667158,
+ "ratio_meanof_Spline_5": 5.411760075398234,
+ "ratio_ofmean_Spline_5": 5.004488692971629,
+ "ratio_medof_Spline_5": 2.105564169083612,
+ "bias_Nodal_1": 4.152368003794993,
+ "ratio_meanof_Nodal_1": 34.29878402557327,
+ "ratio_ofmean_Nodal_1": 22.899692783169815,
+ "ratio_medof_Nodal_1": 17.589177301179504,
+ "bias_Nodal_3": 4.152368003794993,
+ "ratio_meanof_Nodal_3": 11.777833136920238,
+ "ratio_ofmean_Nodal_3": 7.849759752518405,
+ "ratio_medof_Nodal_3": 6.269642448975049,
+ "bias_Nodal_5": 4.152368003794989,
+ "ratio_meanof_Nodal_5": 7.479867549984649,
+ "ratio_ofmean_Nodal_5": 4.990187451407698,
+ "ratio_medof_Nodal_5": 4.122687376007072,
+ "fail_GP_1": 0,
+ "fail_GP_3": 0,
+ "fail_GP_5": 0,
+ "fail_Polynomial_1": 0,
+ "fail_Polynomial_3": 0,
+ "fail_Polynomial_5": 0,
+ "fail_NN_1": 0,
+ "fail_NN_3": 0,
+ "fail_NN_5": 0,
+ "fail_Spline_1": 0,
+ "fail_Spline_3": 1,
+ "fail_Spline_5": 1,
+ "fail_Nodal_1": 0,
+ "fail_Nodal_3": 0,
+ "fail_Nodal_5": 0,
+ "spline_mean_excl_1": 0.9143146693576676,
+ "rmse_mean_GP_1": 0.42762313205798724,
+ "rmse_med_GP_1": 0.37058538603034524,
+ "rmse_mean_Polynomial_1": 0.45087952046855745,
+ "rmse_med_Polynomial_1": 0.3411192935578672,
+ "rmse_mean_NN_1": 1.2651603944299048,
+ "rmse_med_NN_1": 0.8516171204254952,
+ "rmse_mean_Spline_1": 0.9143146693576676,
+ "rmse_med_Spline_1": 0.38800811938711766,
+ "rmse_mean_Nodal_1": 4.159971865939961,
+ "rmse_med_Nodal_1": 3.157594672510811,
+ "rmse_mean_ParametricLCDM_1": 0.18166059716737085,
+ "rmse_med_ParametricLCDM_1": 0.1893537011653556,
+ "spline_mean_excl_3": 2.0942504132932993,
+ "rmse_mean_GP_3": 1.1480266799595178,
+ "rmse_med_GP_3": 0.9451224893972212,
+ "rmse_mean_Polynomial_3": 1.35140975745111,
+ "rmse_med_Polynomial_3": 1.0251140386224762,
+ "rmse_mean_NN_3": 1.8642104039015956,
+ "rmse_med_NN_3": 1.4958972316160934,
+ "rmse_mean_Spline_3": 2.7287596109400125,
+ "rmse_med_Spline_3": 1.139736715074392,
+ "rmse_mean_Nodal_3": 4.2773986248793,
+ "rmse_med_Nodal_3": 3.3849347564905194,
+ "rmse_mean_ParametricLCDM_3": 0.5449082213639724,
+ "rmse_med_ParametricLCDM_3": 0.5682538526288642,
+ "spline_mean_excl_5": 3.4866480914893234,
+ "rmse_mean_GP_5": 1.7171712091149545,
+ "rmse_med_GP_5": 1.4267488855614703,
+ "rmse_mean_Polynomial_5": 2.2519612226691152,
+ "rmse_med_Polynomial_5": 1.7091286579327365,
+ "rmse_mean_NN_5": 2.7294893657318564,
+ "rmse_med_NN_5": 2.3239092896531854,
+ "rmse_mean_Spline_5": 4.5443539179994845,
+ "rmse_med_Spline_5": 1.9031514333479194,
+ "rmse_mean_Nodal_5": 4.531367595695553,
+ "rmse_med_Nodal_5": 3.7508360258636797,
+ "rmse_mean_ParametricLCDM_5": 0.9080555870536057,
+ "rmse_med_ParametricLCDM_5": 0.9474108194346074,
+ "pair_1_GP_Polynomial": {
+  "diff": -0.023256388410570244,
+  "p_boot": 0.5732,
+  "p_wil": 0.9676735773682594,
+  "frac": 0.43333333333333335
+ },
+ "pair_1_Polynomial_Spline": {
+  "diff": -0.46343514888911014,
+  "p_boot": 0.0076,
+  "p_wil": 0.28936620615422726,
+  "frac": 0.5
+ },
+ "pair_1_Spline_NN": {
+  "diff": -0.35084572507223744,
+  "p_boot": 0.1472,
+  "p_wil": 0.008705463260412216,
+  "frac": 0.8666666666666667
+ },
+ "pair_1_NN_Nodal": {
+  "diff": -2.894811471510056,
+  "p_boot": 0.0,
+  "p_wil": 1.862645149230957e-09,
+  "frac": 1.0
+ },
+ "rank_1": [
+  "GP",
+  "Polynomial",
+  "Spline",
+  "NN",
+  "Nodal"
+ ],
+ "pair_3_GP_Polynomial": {
+  "diff": -0.2033830774915917,
+  "p_boot": 0.1592,
+  "p_wil": 0.28008678182959557,
+  "frac": 0.5333333333333333
+ },
+ "pair_3_Polynomial_NN": {
+  "diff": -0.5128006464504854,
+  "p_boot": 0.0048,
+  "p_wil": 0.010598260909318924,
+  "frac": 0.7
+ },
+ "pair_3_NN_Spline": {
+  "diff": -0.8645492070384172,
+  "p_boot": 0.1936,
+  "p_wil": 0.583757072687149,
+  "frac": 0.3333333333333333
+ },
+ "pair_3_Spline_Nodal": {
+  "diff": -1.5486390139392876,
+  "p_boot": 0.038,
+  "p_wil": 0.0029870010912418365,
+  "frac": 0.8333333333333334
+ },
+ "rank_3": [
+  "GP",
+  "Polynomial",
+  "NN",
+  "Spline",
+  "Nodal"
+ ],
+ "pair_5_GP_Polynomial": {
+  "diff": -0.5347900135541607,
+  "p_boot": 0.0012,
+  "p_wil": 0.052263347432017326,
+  "frac": 0.6
+ },
+ "pair_5_Polynomial_NN": {
+  "diff": -0.4775281430627413,
+  "p_boot": 0.078,
+  "p_wil": 0.027741437777876854,
+  "frac": 0.7333333333333333
+ },
+ "pair_5_NN_Nodal": {
+  "diff": -1.801878229963696,
+  "p_boot": 0.0,
+  "p_wil": 6.910413503646851e-07,
+  "frac": 0.8666666666666667
+ },
+ "pair_5_Nodal_Spline": {
+  "diff": -0.012986322303932329,
+  "p_boot": 1.0,
+  "p_wil": 0.049710121005773544,
+  "frac": 0.26666666666666666
+ },
+ "rank_5": [
+  "GP",
+  "Polynomial",
+  "NN",
+  "Nodal",
+  "Spline"
+ ],
+ "zt_med_GP_h0.0001": 0.6751779057778593,
+ "zt_med_GP_h0.001": 0.6751778683600759,
+ "zt_med_GP_h0.01": 0.6751743654489033,
+ "zt_med_GP_h0.05": 0.675090472140748,
+ "om_med_GP": 0.02408825420216515,
+ "zt_nan_GP_1": 0,
+ "zt_nan_GP_3": 0,
+ "zt_nan_GP_5": 0,
+ "zt_med_Polynomial_h0.0001": 0.6576788205200541,
+ "zt_med_Polynomial_h0.001": 0.657679038575276,
+ "zt_med_Polynomial_h0.01": 0.657700842539238,
+ "zt_med_Polynomial_h0.05": 0.6582284902758473,
+ "om_med_Polynomial": 0.0418884497862796,
+ "zt_nan_Polynomial_1": 0,
+ "zt_nan_Polynomial_3": 0,
+ "zt_nan_Polynomial_5": 0,
+ "zt_med_NN_h0.0001": 0.6575160230635082,
+ "zt_med_NN_h0.001": 0.657302730640851,
+ "zt_med_NN_h0.01": 0.6572890767314282,
+ "zt_med_NN_h0.05": 0.6576253365629657,
+ "om_med_NN": 0.021529514542665502,
+ "zt_nan_NN_1": 0,
+ "zt_nan_NN_3": 0,
+ "zt_nan_NN_5": 0,
+ "zt_med_Spline_h0.0001": 0.6462942468640598,
+ "zt_med_Spline_h0.001": 0.6462943891896766,
+ "zt_med_Spline_h0.01": 0.6463086218264538,
+ "zt_med_Spline_h0.05": 0.6466536553772204,
+ "om_med_Spline": 0.03968205720999035,
+ "zt_nan_Spline_1": 0,
+ "zt_nan_Spline_3": 0,
+ "zt_nan_Spline_5": 0,
+ "zt_med_Nodal_h0.0001": 0.6262047086529666,
+ "zt_med_Nodal_h0.001": 0.626204708652957,
+ "zt_med_Nodal_h0.01": 0.6285268548258016,
+ "zt_med_Nodal_h0.05": 0.642907134446292,
+ "om_med_Nodal": 0.09766306572116296,
+ "zt_nan_Nodal_1": 0,
+ "zt_nan_Nodal_3": 0,
+ "zt_nan_Nodal_5": 0,
+ "gp_cov68_1": 0.7100833333333334,
+ "gp_cov95_1": 0.963,
+ "gp_cov68_3": 0.6878333333333333,
+ "gp_cov95_3": 0.9650833333333334,
+ "gp_cov68_5": 0.6627499999999998,
+ "gp_cov95_5": 0.9690833333333333,
+ "t2_meanrank_flat_lcdm_Hz": [
+  "GP",
+  "NN",
+  "Polynomial",
+  "Nodal",
+  "Spline"
+ ],
+ "t2_rank_flat_lcdm_Hz": [
+  "GP",
+  "Spline",
+  "Polynomial",
+  "NN",
+  "Nodal"
+ ],
+ "t2_flat_lcdm_Hz_GP": 0.8440998936824404,
+ "t2_flat_lcdm_Hz_Polynomial": 1.1709555250991097,
+ "t2_flat_lcdm_Hz_NN": 1.2181163289794363,
+ "t2_flat_lcdm_Hz_Spline": 0.9269106207392066,
+ "t2_flat_lcdm_Hz_Nodal": 2.601835015474874,
+ "t2_flat_lcdm_Hz_pflat": 0.5682538526288642,
+ "t2_flat_lcdm_Hz_pcorr": 0.5682538526288642,
+ "t2_meanrank_nonflat_lcdm_Hz": [
+  "GP",
+  "NN",
+  "Polynomial",
+  "Nodal",
+  "Spline"
+ ],
+ "t2_rank_nonflat_lcdm_Hz": [
+  "GP",
+  "Spline",
+  "Polynomial",
+  "NN",
+  "Nodal"
+ ],
+ "t2_nonflat_lcdm_Hz_GP": 0.8369641099892824,
+ "t2_nonflat_lcdm_Hz_Polynomial": 1.170499365682778,
+ "t2_nonflat_lcdm_Hz_NN": 1.2188392455730326,
+ "t2_nonflat_lcdm_Hz_Spline": 0.9277338214241106,
+ "t2_nonflat_lcdm_Hz_Nodal": 2.678573628538386,
+ "t2_nonflat_lcdm_Hz_pflat": 0.5239410388981158,
+ "t2_nonflat_lcdm_Hz_pcorr": 0.5723509848749966,
+ "t2_meanrank_cpl_de_Hz": [
+  "GP",
+  "NN",
+  "Polynomial",
+  "Nodal",
+  "Spline"
+ ],
+ "t2_rank_cpl_de_Hz": [
+  "GP",
+  "Spline",
+  "Polynomial",
+  "NN",
+  "Nodal"
+ ],
+ "t2_cpl_de_Hz_GP": 0.8260682051490351,
+ "t2_cpl_de_Hz_Polynomial": 1.168706174634269,
+ "t2_cpl_de_Hz_NN": 1.2197451040014995,
+ "t2_cpl_de_Hz_Spline": 0.9329623228208149,
+ "t2_cpl_de_Hz_Nodal": 2.758325002659217,
+ "t2_cpl_de_Hz_pflat": 0.9334992959865795,
+ "t2_cpl_de_Hz_pcorr": 0.6266156360439546,
+ "t2_meanrank_feature_Hz": [
+  "GP",
+  "NN",
+  "Polynomial",
+  "Spline",
+  "Nodal"
+ ],
+ "t2_rank_feature_Hz": [
+  "GP",
+  "Spline",
+  "Polynomial",
+  "NN",
+  "Nodal"
+ ],
+ "t2_feature_Hz_GP": 1.381317699891357,
+ "t2_feature_Hz_Polynomial": 1.6545602807000646,
+ "t2_feature_Hz_NN": 1.7452740805142724,
+ "t2_feature_Hz_Spline": 1.4683350098423587,
+ "t2_feature_Hz_Nodal": 3.3960198908030277,
+ "t2_feature_Hz_pflat": 1.3330550778969643,
+ "t2_feature_Hz_pcorr": NaN,
+ "t2_meanrank_flat_lcdm_DH": [
+  "GP",
+  "NN",
+  "Polynomial",
+  "Nodal",
+  "Spline"
+ ],
+ "t2_rank_flat_lcdm_DH": [
+  "GP",
+  "Spline",
+  "NN",
+  "Polynomial",
+  "Nodal"
+ ],
+ "t2_flat_lcdm_DH_GP": 1.071139681577893,
+ "t2_flat_lcdm_DH_Polynomial": 2.017932954755684,
+ "t2_flat_lcdm_DH_NN": 1.8815407246389355,
+ "t2_flat_lcdm_DH_Spline": 1.2533340116234828,
+ "t2_flat_lcdm_DH_Nodal": 3.369063750528497,
+ "t2_flat_lcdm_DH_pflat": 0.6996660033585869,
+ "t2_flat_lcdm_DH_pcorr": 0.6996660033585869,
+ "t2_meanrank_nonflat_lcdm_DH": [
+  "GP",
+  "NN",
+  "Polynomial",
+  "Nodal",
+  "Spline"
+ ],
+ "t2_rank_nonflat_lcdm_DH": [
+  "GP",
+  "Spline",
+  "NN",
+  "Polynomial",
+  "Nodal"
+ ],
+ "t2_nonflat_lcdm_DH_GP": 1.0901510962619443,
+ "t2_nonflat_lcdm_DH_Polynomial": 2.0512771750115073,
+ "t2_nonflat_lcdm_DH_NN": 1.9204877486671483,
+ "t2_nonflat_lcdm_DH_Spline": 1.2762874414817933,
+ "t2_nonflat_lcdm_DH_Nodal": 3.464604569318243,
+ "t2_nonflat_lcdm_DH_pflat": 0.8441116385107911,
+ "t2_nonflat_lcdm_DH_pcorr": 0.6663670279633145,
+ "t2_meanrank_cpl_de_DH": [
+  "GP",
+  "NN",
+  "Polynomial",
+  "Nodal",
+  "Spline"
+ ],
+ "t2_rank_cpl_de_DH": [
+  "GP",
+  "Spline",
+  "NN",
+  "Polynomial",
+  "Nodal"
+ ],
+ "t2_cpl_de_DH_GP": 1.1093603023196987,
+ "t2_cpl_de_DH_Polynomial": 2.0745811896504165,
+ "t2_cpl_de_DH_NN": 1.977581588361534,
+ "t2_cpl_de_DH_Spline": 1.304130546362837,
+ "t2_cpl_de_DH_Nodal": 3.5379916701950456,
+ "t2_cpl_de_DH_pflat": 1.4191950329235634,
+ "t2_cpl_de_DH_pcorr": 0.9009297299402196,
+ "feat_pair_GP_Spline": {
+  "diff": -1.6343594884941715,
+  "p_boot": 0.0,
+  "p_wil": 0.004031794145703316,
+  "frac": 0.6666666666666666
+ },
+ "feat_pair_GP_NN": {
+  "diff": -0.5037070417156169,
+  "p_boot": 0.0,
+  "p_wil": 0.00013739429414272308,
+  "frac": 0.8
+ },
+ "feat_pair_NN_Spline": {
+  "diff": -1.1306524467785546,
+  "p_boot": 0.0232,
+  "p_wil": 0.15794767439365387,
+  "frac": 0.6
+ },
+ "feat_pair_GP_Polynomial": {
+  "diff": -0.5516820834561268,
+  "p_boot": 0.0,
+  "p_wil": 0.0015832837671041489,
+  "frac": 0.6666666666666666
+ },
+ "feat_pair_Spline_Polynomial": {
+  "diff": 1.0826774050380445,
+  "p_boot": 0.0432,
+  "p_wil": 0.8078304156661034,
+  "frac": 0.6
+ },
+ "real_CC31_ParametricLCDM": {
+  "chi": 0.7888390370841403,
+  "lo": 0.6437743778985229,
+  "hi": 0.9049363110843972,
+  "zt": 0.6206932940587415
+ },
+ "real_BAO_legacy_v1_ParametricLCDM": {
+  "chi": 0.5385701546655891,
+  "lo": 0.4149086037182481,
+  "hi": 0.6446170033465164,
+  "zt": 0.8304274439947221
+ },
+ "real_BAO_DESI_ParametricLCDM": {
+  "chi": 1.6119040669442088,
+  "lo": 1.2116429915673743,
+  "hi": 1.916489630852118,
+  "zt": 0.7535330416325644
+ },
+ "real_CC31+BAO_DESI_ParametricLCDM": {
+  "chi": 0.8124293166072114,
+  "lo": 0.7236530374536971,
+  "hi": 0.8924584333647149,
+  "zt": 0.72483726857798
+ },
+ "real_CC31_GP": {
+  "chi": 0.8444061098365538,
+  "lo": 0.6803946515363394,
+  "hi": 0.9711169124672177,
+  "zt": 0.5181257037328126
+ },
+ "real_BAO_legacy_v1_GP": {
+  "chi": 0.4163974475845511,
+  "lo": 0.3316629393625739,
+  "hi": 0.4873841321865392,
+  "zt": 0.7662979795949891
+ },
+ "real_BAO_DESI_GP": {
+  "chi": 6.991929330262947,
+  "lo": 1.4383285080041774,
+  "hi": 9.782593410241017,
+  "zt": 0.8966790474944617
+ },
+ "real_CC31+BAO_DESI_GP": {
+  "chi": 2.009579080209705,
+  "lo": 0.788675020312369,
+  "hi": 2.7252506288351777,
+  "zt": 0.829434802465175
+ },
+ "real_CC31_Polynomial": {
+  "chi": 0.9857410334273116,
+  "lo": 0.7341434084297318,
+  "hi": 1.169711642976814,
+  "zt": 0.4679643982671669
+ },
+ "real_BAO_legacy_v1_Polynomial": {
+  "chi": 0.426268902435424,
+  "lo": 0.3512475371810735,
+  "hi": 0.4917502559289017,
+  "zt": 0.9314241663613452
+ },
+ "real_BAO_DESI_Polynomial": {
+  "chi": 22.781046412573616,
+  "lo": 1.371131922583547,
+  "hi": 32.18800249362482,
+  "zt": 0.5657159118625372
+ },
+ "real_CC31+BAO_DESI_Polynomial": {
+  "chi": 1.678515288685776,
+  "lo": 0.849925455988742,
+  "hi": 2.199443381130836,
+  "zt": 0.1125138703727502
+ },
+ "real_CC31_NN": {
+  "chi": 0.8901558921872527,
+  "lo": 0.7142871529469158,
+  "hi": 1.0345740408872517,
+  "zt": 0.4184402095968364
+ },
+ "real_BAO_legacy_v1_NN": {
+  "chi": 0.3816047043468189,
+  "lo": 0.2871676085447899,
+  "hi": 0.4567860488612363,
+  "zt": 0.8095875518703598
+ },
+ "real_BAO_DESI_NN": {
+  "chi": 7.788189273781537,
+  "lo": 1.4209290112317403,
+  "hi": 10.92212182103512,
+  "zt": 0.9575178617521476
+ },
+ "real_CC31+BAO_DESI_NN": {
+  "chi": 2.950701187647561,
+  "lo": 0.8028403415777963,
+  "hi": 4.09070255226021,
+  "zt": 0.9323101483470918
+ },
+ "real_CC31_Spline": {
+  "chi": 0.8689427700056903,
+  "lo": 0.6586454300783339,
+  "hi": 1.021740018910092,
+  "zt": 0.4738993756833284
+ },
+ "real_BAO_legacy_v1_Spline": {
+  "chi": 0.4091059857850762,
+  "lo": 0.3302742927243814,
+  "hi": 0.4756701824083135,
+  "zt": 1.0495639269985877
+ },
+ "real_BAO_DESI_Spline": {
+  "chi": 21.243347847134626,
+  "lo": 2.0484516102820765,
+  "hi": 29.96992183681538,
+  "zt": 0.8740019695447006
+ },
+ "real_CC31+BAO_DESI_Spline": {
+  "chi": 2.191937958802809,
+  "lo": 0.797630350518058,
+  "hi": 2.9904260262563973,
+  "zt": 0.8205479743164846
+ },
+ "real_CC31_Nodal": {
+  "chi": 0.8226168296339023,
+  "lo": 0.6431226710454969,
+  "hi": 0.9571370634574764,
+  "zt": 0.624736039687133
+ },
+ "real_BAO_legacy_v1_Nodal": {
+  "chi": 7.464699135078668,
+  "lo": 5.267731864979294,
+  "hi": 9.165984246209677,
+  "zt": NaN
+ },
+ "real_BAO_DESI_Nodal": {
+  "chi": 13.879994689349449,
+  "lo": 3.78603874471361,
+  "hi": 19.20279680816779,
+  "zt": 0.628263302067218
+ },
+ "real_CC31+BAO_DESI_Nodal": {
+  "chi": 2.923827614972272,
+  "lo": 1.5907009439410271,
+  "hi": 3.761543086737796,
+  "zt": 0.3789753403047941
+ },
+ "real_CC31_Nodal-range": {
+  "chi": 0.8178694133254397,
+  "lo": 0.6356489551821614,
+  "hi": 0.9555972863476474,
+  "zt": 0.6612596140177317
+ },
+ "real_BAO_legacy_v1_Nodal-range": {
+  "chi": 0.7424252825651673,
+  "lo": 0.4598736756965051,
+  "hi": 0.944337509715588,
+  "zt": 0.6353065904770258
+ },
+ "real_BAO_DESI_Nodal-range": {
+  "chi": 11.784694073504468,
+  "lo": 3.128357150409141,
+  "hi": 16.359848710698444,
+  "zt": 0.6266251911404309
+ },
+ "real_CC31+BAO_DESI_Nodal-range": {
+  "chi": 4.175139372944765,
+  "lo": 2.7137010547378533,
+  "hi": 5.222525610764141,
+  "zt": 1.0570370991806164
+ },
+ "real_CC32_ParametricLCDM": {
+  "chi": 0.7760639102526528,
+  "lo": 0.6345002467118515,
+  "hi": 0.890768094990651,
+  "zt": 0.6220554932813454
+ },
+ "real_CC34_ParametricLCDM": {
+  "chi": 0.7515470126891701,
+  "lo": 0.6070288742062658,
+  "hi": 0.8654741215887063,
+  "zt": 0.6213313782970378
+ },
+ "real_BAO_legacy_ParametricLCDM": {
+  "chi": 0.8141161891914861,
+  "lo": 0.6513200194849907,
+  "hi": 0.9559612890372208,
+  "zt": 0.8767630375061043
+ },
+ "real_CC31+BAO_legacy_v1_ParametricLCDM": {
+  "chi": 0.6889684839259093,
+  "lo": 0.5930470790494969,
+  "hi": 0.7723905536232076,
+  "zt": 0.7938430275292011
+ },
+ "real_CC32_GP": {
+  "chi": 0.8310766015984927,
+  "lo": 0.6697041693459622,
+  "hi": 0.959810382212112,
+  "zt": 0.5205566752363031
+ },
+ "real_CC34_GP": {
+  "chi": 0.8031778468354891,
+  "lo": 0.6435585072540653,
+  "hi": 0.9298710312815645,
+  "zt": 0.518850893722483
+ },
+ "real_BAO_legacy_GP": {
+  "chi": 7.280045834511416,
+  "lo": 1.0473734763730147,
+  "hi": 10.237119709238945,
+  "zt": 0.7624203205053219
+ },
+ "real_CC31+BAO_legacy_v1_GP": {
+  "chi": 0.7712457840633397,
+  "lo": 0.6089450368374013,
+  "hi": 0.8941950307502706,
+  "zt": 0.6417793070982404
+ },
+ "real_CC32_Polynomial": {
+  "chi": 0.9704117988418292,
+  "lo": 0.7231048588641891,
+  "hi": 1.156529401705398,
+  "zt": 0.471815387865647
+ },
+ "real_CC34_Polynomial": {
+  "chi": 0.932864022403304,
+  "lo": 0.6854257967817496,
+  "hi": 1.1140982289221533,
+  "zt": 0.4700494791357692
+ },
+ "real_BAO_legacy_Polynomial": {
+  "chi": 22646.594210833908,
+  "lo": 53.01310780853276,
+  "hi": 32027.07622484928,
+  "zt": 0.4118012369321341
+ },
+ "real_CC31+BAO_legacy_v1_Polynomial": {
+  "chi": 0.8369895939900246,
+  "lo": 0.6321939319620368,
+  "hi": 0.987000699328583,
+  "zt": 0.6086811704273745
+ },
+ "real_CC32_NN": {
+  "chi": 0.8695385251096702,
+  "lo": 0.6918881981469193,
+  "hi": 1.010045221164681,
+  "zt": 0.4187371568327422
+ },
+ "real_CC34_NN": {
+  "chi": 0.8454918351187799,
+  "lo": 0.6729441217282828,
+  "hi": 0.9835954519355306,
+  "zt": 0.4185810703459834
+ },
+ "real_BAO_legacy_NN": {
+  "chi": 6.341423471505118,
+  "lo": 1.3795748768082463,
+  "hi": 8.857826541132594,
+  "zt": 0.8811089809755396
+ },
+ "real_CC31+BAO_legacy_v1_NN": {
+  "chi": 0.7800857640258899,
+  "lo": 0.5802011775827027,
+  "hi": 0.9307614813133822,
+  "zt": 0.6113041885840816
+ },
+ "real_CC32_Spline": {
+  "chi": 0.8548062705359729,
+  "lo": 0.6503257616794793,
+  "hi": 1.008625819056759,
+  "zt": 0.4755495377604866
+ },
+ "real_CC34_Spline": {
+  "chi": 0.8263481204903308,
+  "lo": 0.6233974153264336,
+  "hi": 0.980114718134268,
+  "zt": 0.4756673323440201
+ },
+ "real_BAO_legacy_Spline": {
+  "chi": 158.28768776940746,
+  "lo": 2.9780948080041214,
+  "hi": 223.83214117814987,
+  "zt": 1.2840620904102822
+ },
+ "real_CC31+BAO_legacy_v1_Spline": {
+  "chi": 0.7728544473661864,
+  "lo": 0.6138644174130664,
+  "hi": 0.8927954260229837,
+  "zt": 0.6140921771513199
+ },
+ "real_CC32_Nodal": {
+  "chi": 0.8092974643456915,
+  "lo": 0.632010725537289,
+  "hi": 0.9430690444293984,
+  "zt": 0.6256004888703348
+ },
+ "real_CC34_Nodal": {
+  "chi": 0.7850884791512596,
+  "lo": 0.6229402237710588,
+  "hi": 0.9105616381452034,
+  "zt": 0.6252843999811875
+ },
+ "real_BAO_legacy_Nodal": {
+  "chi": 6.967020129652026,
+  "lo": 1.3512590952540129,
+  "hi": 9.75687106772513,
+  "zt": NaN
+ },
+ "real_CC31+BAO_legacy_v1_Nodal": {
+  "chi": 1.0747293799871669,
+  "lo": 0.8251537682938835,
+  "hi": 1.2700634121307923,
+  "zt": 0.6242589090695438
+ },
+ "real_CC32_Nodal-range": {
+  "chi": 0.7996548048556347,
+  "lo": 0.6229589595663884,
+  "hi": 0.9366098658725416,
+  "zt": 0.661277318226407
+ },
+ "real_CC34_Nodal-range": {
+  "chi": 0.776141355618029,
+  "lo": 0.6095726098047104,
+  "hi": 0.907040003874509,
+  "zt": 0.66118696105198
+ },
+ "real_BAO_legacy_Nodal-range": {
+  "chi": 6.981683505865334,
+  "lo": 1.4088557202967358,
+  "hi": 9.76912666494134,
+  "zt": 0.6309351289184937
+ },
+ "real_CC31+BAO_legacy_v1_Nodal-range": {
+  "chi": 0.7811716367602396,
+  "lo": 0.5495529762274626,
+  "hi": 0.9509261339289918,
+  "zt": 0.782254595577523
+ },
+ "lcdm_CC31": {
+  "H0": 68.14493522588043,
+  "H0_err": 3.0778612895990105,
+  "Om": 0.3196428782782692,
+  "Om_err": 0.0593310943036776,
+  "chi2": 14.49421612184586,
+  "N": 31
+ },
+ "lcdm_CC32": {
+  "H0": 68.14737871101705,
+  "H0_err": 3.0770849488761,
+  "Om": 0.3190957504760484,
+  "Om_err": 0.0591933174727767,
+  "chi2": 14.53281134489332,
+  "N": 32
+ },
+ "lcdm_CC34": {
+  "H0": 68.15237288840905,
+  "H0_err": 3.075189514854818,
+  "Om": 0.3193862938247137,
+  "Om_err": 0.0589156087633486,
+  "chi2": 14.576688447510014,
+  "N": 34
+ },
+ "lcdm_BAO_legacy_v1": {
+  "H0": 70.87024441963943,
+  "H0_err": 2.2024192373507705,
+  "Om": 0.2459188297540842,
+  "Om_err": 0.0252871517102918,
+  "chi2": 1.8832672354153084,
+  "N": 10
+ },
+ "lcdm_BAO_legacy": {
+  "H0": 72.17419915829677,
+  "H0_err": 2.330442584751962,
+  "Om": 0.2322770936348732,
+  "Om_err": 0.0277379595217933,
+  "chi2": 3.063262992637182,
+  "N": 7
+ },
+ "lcdm_BAO_DESI": {
+  "H0": 71.49596015095887,
+  "H0_err": 1.8981315795727665,
+  "Om": 0.2705674012748861,
+  "Om_err": 0.0202217546617868,
+  "chi2": 3.98658133243582,
+  "N": 6
+ },
+ "lcdm_CC31+BAO_legacy_v1": {
+  "H0": 70.34409740080612,
+  "H0_err": 1.743922452650848,
+  "Om": 0.2573227895912029,
+  "Om_err": 0.0225295452382789,
+  "chi2": 18.204878247313715,
+  "N": 41
+ },
+ "lcdm_CC31+BAO_DESI": {
+  "H0": 70.56575706190718,
+  "H0_err": 1.5805641595388802,
+  "Om": 0.2804474726991637,
+  "Om_err": 0.0178782578917865,
+  "chi2": 19.355710390391064,
+  "N": 37
+ },
+ "lcdm_CC32+BAO_DESI": {
+  "H0": 70.5605880676392,
+  "H0_err": 1.5803901593868193,
+  "Om": 0.2804907384847862,
+  "Om_err": 0.0178807836144383,
+  "chi2": 19.39199116317137,
+  "N": 38
+ },
+ "lcdm_CC31+BAO_DESI_rd-2%": {
+  "H0": 71.3184698284274,
+  "H0_err": 1.6116804116818926,
+  "Om": 0.2872726457981586,
+  "Om_err": 0.0183690572936025,
+  "chi2": 20.64064270301657,
+  "N": 37
+ },
+ "lcdm_CC31+BAO_DESI_rd+2%": {
+  "H0": 69.80200757240907,
+  "H0_err": 1.550738317507221,
+  "Om": 0.2742147313738351,
+  "Om_err": 0.0174348496670226,
+  "chi2": 19.271821839877557,
+  "N": 37
+ },
+ "rd_CC31+BAO_DESI_ParametricLCDM": 0.8124293166072114,
+ "rd_CC31+BAO_DESI_GP": 2.009579080209705,
+ "rd_CC31+BAO_DESI_Polynomial": 1.678515288685776,
+ "rd_CC31+BAO_DESI_NN": 2.950701187647561,
+ "rd_CC31+BAO_DESI_Spline": 2.191937958802809,
+ "rd_CC31+BAO_DESI_Nodal": 2.923827614972272,
+ "rd_CC31+BAO_DESI_Nodal-range": 4.175139372944765,
+ "rd_CC31+BAO_DESI_rd-2%_ParametricLCDM": 0.8281663753562062,
+ "rd_CC31+BAO_DESI_rd-2%_GP": 2.063961546398175,
+ "rd_CC31+BAO_DESI_rd-2%_Polynomial": 2.5848893226253127,
+ "rd_CC31+BAO_DESI_rd-2%_NN": 3.241306794718976,
+ "rd_CC31+BAO_DESI_rd-2%_Spline": 2.0276602343102117,
+ "rd_CC31+BAO_DESI_rd-2%_Nodal": 3.025021225973332,
+ "rd_CC31+BAO_DESI_rd-2%_Nodal-range": 4.182412254121736,
+ "rd_CC31+BAO_DESI_rd+2%_ParametricLCDM": 0.8238212058813038,
+ "rd_CC31+BAO_DESI_rd+2%_GP": 1.961947554522576,
+ "rd_CC31+BAO_DESI_rd+2%_Polynomial": 0.9708023259423628,
+ "rd_CC31+BAO_DESI_rd+2%_NN": 2.68242665901247,
+ "rd_CC31+BAO_DESI_rd+2%_Spline": 2.3318432107582567,
+ "rd_CC31+BAO_DESI_rd+2%_Nodal": 2.8795649595420936,
+ "rd_CC31+BAO_DESI_rd+2%_Nodal-range": 4.218070075866304,
+ "pair_CC31_GP_Polynomial": {
+  "diff": -0.1413349235907576,
+  "p": 0.127,
+  "p_holm": 1.0
+ },
+ "pair_CC31_GP_NN": {
+  "diff": -0.0457497823506988,
+  "p": 0.403,
+  "p_holm": 1.0
+ },
+ "pair_CC31_GP_Spline": {
+  "diff": -0.0245366601691364,
+  "p": 0.698,
+  "p_holm": 1.0
+ },
+ "pair_CC31_GP_Nodal": {
+  "diff": 0.0217892802026515,
+  "p": 0.677,
+  "p_holm": 1.0
+ },
+ "pair_CC31_GP_Nodal-range": {
+  "diff": 0.0265366965111141,
+  "p": 0.615,
+  "p_holm": 1.0
+ },
+ "pair_CC31_GP_ParametricLCDM": {
+  "diff": 0.0555670727524135,
+  "p": 0.219,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Polynomial_NN": {
+  "diff": 0.0955851412400587,
+  "p": 0.331,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Polynomial_Spline": {
+  "diff": 0.1167982634216211,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31_Polynomial_Nodal": {
+  "diff": 0.1631242037934092,
+  "p": 0.088,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Polynomial_Nodal-range": {
+  "diff": 0.1678716201018717,
+  "p": 0.069,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Polynomial_ParametricLCDM": {
+  "diff": 0.1969019963431711,
+  "p": 0.084,
+  "p_holm": 1.0
+ },
+ "pair_CC31_NN_Spline": {
+  "diff": 0.0212131221815623,
+  "p": 0.72,
+  "p_holm": 1.0
+ },
+ "pair_CC31_NN_Nodal": {
+  "diff": 0.0675390625533504,
+  "p": 0.171,
+  "p_holm": 1.0
+ },
+ "pair_CC31_NN_Nodal-range": {
+  "diff": 0.0722864788618129,
+  "p": 0.164,
+  "p_holm": 1.0
+ },
+ "pair_CC31_NN_ParametricLCDM": {
+  "diff": 0.1013168551031123,
+  "p": 0.282,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Spline_Nodal": {
+  "diff": 0.046325940371788,
+  "p": 0.405,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Spline_Nodal-range": {
+  "diff": 0.0510733566802505,
+  "p": 0.328,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Spline_ParametricLCDM": {
+  "diff": 0.08010373292155,
+  "p": 0.33,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Nodal_Nodal-range": {
+  "diff": 0.0047474163084625,
+  "p": 0.823,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Nodal_ParametricLCDM": {
+  "diff": 0.0337777925497619,
+  "p": 0.659,
+  "p_holm": 1.0
+ },
+ "pair_CC31_Nodal-range_ParametricLCDM": {
+  "diff": 0.0290303762412994,
+  "p": 0.685,
+  "p_holm": 1.0
+ },
+ "pair_CC32_GP_Polynomial": {
+  "diff": -0.1393351972433365,
+  "p": 0.138,
+  "p_holm": 1.0
+ },
+ "pair_CC32_GP_NN": {
+  "diff": -0.0384619235111775,
+  "p": 0.489,
+  "p_holm": 1.0
+ },
+ "pair_CC32_GP_Spline": {
+  "diff": -0.0237296689374801,
+  "p": 0.733,
+  "p_holm": 1.0
+ },
+ "pair_CC32_GP_Nodal": {
+  "diff": 0.0217791372528012,
+  "p": 0.673,
+  "p_holm": 1.0
+ },
+ "pair_CC32_GP_Nodal-range": {
+  "diff": 0.031421796742858,
+  "p": 0.491,
+  "p_holm": 1.0
+ },
+ "pair_CC32_GP_ParametricLCDM": {
+  "diff": 0.0550126913458399,
+  "p": 0.21,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Polynomial_NN": {
+  "diff": 0.100873273732159,
+  "p": 0.313,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Polynomial_Spline": {
+  "diff": 0.1156055283058563,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC32_Polynomial_Nodal": {
+  "diff": 0.1611143344961377,
+  "p": 0.091,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Polynomial_Nodal-range": {
+  "diff": 0.1707569939861946,
+  "p": 0.056,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Polynomial_ParametricLCDM": {
+  "diff": 0.1943478885891765,
+  "p": 0.091,
+  "p_holm": 1.0
+ },
+ "pair_CC32_NN_Spline": {
+  "diff": 0.0147322545736973,
+  "p": 0.785,
+  "p_holm": 1.0
+ },
+ "pair_CC32_NN_Nodal": {
+  "diff": 0.0602410607639787,
+  "p": 0.23,
+  "p_holm": 1.0
+ },
+ "pair_CC32_NN_Nodal-range": {
+  "diff": 0.0698837202540355,
+  "p": 0.174,
+  "p_holm": 1.0
+ },
+ "pair_CC32_NN_ParametricLCDM": {
+  "diff": 0.0934746148570174,
+  "p": 0.317,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Spline_Nodal": {
+  "diff": 0.0455088061902814,
+  "p": 0.438,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Spline_Nodal-range": {
+  "diff": 0.0551514656803382,
+  "p": 0.261,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Spline_ParametricLCDM": {
+  "diff": 0.0787423602833201,
+  "p": 0.347,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Nodal_Nodal-range": {
+  "diff": 0.0096426594900568,
+  "p": 0.626,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Nodal_ParametricLCDM": {
+  "diff": 0.0332335540930387,
+  "p": 0.66,
+  "p_holm": 1.0
+ },
+ "pair_CC32_Nodal-range_ParametricLCDM": {
+  "diff": 0.0235908946029819,
+  "p": 0.763,
+  "p_holm": 1.0
+ },
+ "pair_CC34_GP_Polynomial": {
+  "diff": -0.1296861755678148,
+  "p": 0.149,
+  "p_holm": 1.0
+ },
+ "pair_CC34_GP_NN": {
+  "diff": -0.0423139882832908,
+  "p": 0.424,
+  "p_holm": 1.0
+ },
+ "pair_CC34_GP_Spline": {
+  "diff": -0.0231702736548417,
+  "p": 0.708,
+  "p_holm": 1.0
+ },
+ "pair_CC34_GP_Nodal": {
+  "diff": 0.0180893676842295,
+  "p": 0.746,
+  "p_holm": 1.0
+ },
+ "pair_CC34_GP_Nodal-range": {
+  "diff": 0.0270364912174601,
+  "p": 0.568,
+  "p_holm": 1.0
+ },
+ "pair_CC34_GP_ParametricLCDM": {
+  "diff": 0.0516308341463189,
+  "p": 0.206,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Polynomial_NN": {
+  "diff": 0.087372187284524,
+  "p": 0.357,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Polynomial_Spline": {
+  "diff": 0.1065159019129731,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC34_Polynomial_Nodal": {
+  "diff": 0.1477755432520443,
+  "p": 0.144,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Polynomial_Nodal-range": {
+  "diff": 0.1567226667852749,
+  "p": 0.08,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Polynomial_ParametricLCDM": {
+  "diff": 0.1813170097141337,
+  "p": 0.089,
+  "p_holm": 1.0
+ },
+ "pair_CC34_NN_Spline": {
+  "diff": 0.0191437146284491,
+  "p": 0.713,
+  "p_holm": 1.0
+ },
+ "pair_CC34_NN_Nodal": {
+  "diff": 0.0604033559675203,
+  "p": 0.242,
+  "p_holm": 1.0
+ },
+ "pair_CC34_NN_Nodal-range": {
+  "diff": 0.0693504795007509,
+  "p": 0.177,
+  "p_holm": 1.0
+ },
+ "pair_CC34_NN_ParametricLCDM": {
+  "diff": 0.0939448224296097,
+  "p": 0.285,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Spline_Nodal": {
+  "diff": 0.0412596413390712,
+  "p": 0.503,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Spline_Nodal-range": {
+  "diff": 0.0502067648723018,
+  "p": 0.327,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Spline_ParametricLCDM": {
+  "diff": 0.0748011078011606,
+  "p": 0.335,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Nodal_Nodal-range": {
+  "diff": 0.0089471235332305,
+  "p": 0.652,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Nodal_ParametricLCDM": {
+  "diff": 0.0335414664620894,
+  "p": 0.584,
+  "p_holm": 1.0
+ },
+ "pair_CC34_Nodal-range_ParametricLCDM": {
+  "diff": 0.0245943429288588,
+  "p": 0.662,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_GP_Polynomial": {
+  "diff": -0.0098714548508728,
+  "p": 0.727,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_GP_NN": {
+  "diff": 0.0347927432377322,
+  "p": 0.067,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_GP_Spline": {
+  "diff": 0.0072914617994749,
+  "p": 0.701,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_GP_Nodal": {
+  "diff": -7.048301687494116,
+  "p": 0.004,
+  "p_holm": 0.076
+ },
+ "pair_BAO_legacy_v1_GP_Nodal-range": {
+  "diff": -0.3260278349806161,
+  "p": 0.193,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_GP_ParametricLCDM": {
+  "diff": -0.1221727070810379,
+  "p": 0.197,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_Polynomial_NN": {
+  "diff": 0.0446641980886051,
+  "p": 0.087,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_Polynomial_Spline": {
+  "diff": 0.0171629166503478,
+  "p": 0.402,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_Polynomial_Nodal": {
+  "diff": -7.038430232643243,
+  "p": 0.004,
+  "p_holm": 0.076
+ },
+ "pair_BAO_legacy_v1_Polynomial_Nodal-range": {
+  "diff": -0.3161563801297432,
+  "p": 0.254,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_Polynomial_ParametricLCDM": {
+  "diff": -0.112301252230165,
+  "p": 0.336,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_NN_Spline": {
+  "diff": -0.0275012814382572,
+  "p": 0.017,
+  "p_holm": 0.272
+ },
+ "pair_BAO_legacy_v1_NN_Nodal": {
+  "diff": -7.083094430731849,
+  "p": 0.003,
+  "p_holm": 0.063
+ },
+ "pair_BAO_legacy_v1_NN_Nodal-range": {
+  "diff": -0.3608205782183483,
+  "p": 0.144,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_NN_ParametricLCDM": {
+  "diff": -0.1569654503187701,
+  "p": 0.161,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_Spline_Nodal": {
+  "diff": -7.055593149293592,
+  "p": 0.003,
+  "p_holm": 0.063
+ },
+ "pair_BAO_legacy_v1_Spline_Nodal-range": {
+  "diff": -0.3333192967800911,
+  "p": 0.194,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_Spline_ParametricLCDM": {
+  "diff": -0.1294641688805129,
+  "p": 0.219,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_Nodal_Nodal-range": {
+  "diff": 6.7222738525135,
+  "p": 0.071,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_v1_Nodal_ParametricLCDM": {
+  "diff": 6.926128980413079,
+  "p": 0.005,
+  "p_holm": 0.085
+ },
+ "pair_BAO_legacy_v1_Nodal-range_ParametricLCDM": {
+  "diff": 0.2038551278995781,
+  "p": 0.34,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_GP_Polynomial": {
+  "diff": -22639.3141649994,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_legacy_GP_NN": {
+  "diff": 0.9386223630062976,
+  "p": 0.648,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_GP_Spline": {
+  "diff": -151.00764193489604,
+  "p": 0.006,
+  "p_holm": 0.066
+ },
+ "pair_BAO_legacy_GP_Nodal": {
+  "diff": 0.3130257048593901,
+  "p": 0.496,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_GP_Nodal-range": {
+  "diff": 0.2983623286460819,
+  "p": 0.59,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_GP_ParametricLCDM": {
+  "diff": 6.46592964531993,
+  "p": 0.006,
+  "p_holm": 0.066
+ },
+ "pair_BAO_legacy_Polynomial_NN": {
+  "diff": 22640.2527873624,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_legacy_Polynomial_Spline": {
+  "diff": 22488.3065230645,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_legacy_Polynomial_Nodal": {
+  "diff": 22639.627190704257,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_legacy_Polynomial_Nodal-range": {
+  "diff": 22639.61252732804,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_legacy_Polynomial_ParametricLCDM": {
+  "diff": 22645.78009464472,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_legacy_NN_Spline": {
+  "diff": -151.94626429790233,
+  "p": 0.051,
+  "p_holm": 0.357
+ },
+ "pair_BAO_legacy_NN_Nodal": {
+  "diff": -0.6255966581469075,
+  "p": 0.399,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_NN_Nodal-range": {
+  "diff": -0.6402600343602156,
+  "p": 0.179,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_NN_ParametricLCDM": {
+  "diff": 5.527307282313632,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_legacy_Spline_Nodal": {
+  "diff": 151.32066763975544,
+  "p": 0.004,
+  "p_holm": 0.052
+ },
+ "pair_BAO_legacy_Spline_Nodal-range": {
+  "diff": 151.30600426354212,
+  "p": 0.035,
+  "p_holm": 0.28
+ },
+ "pair_BAO_legacy_Spline_ParametricLCDM": {
+  "diff": 157.47357158021595,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_legacy_Nodal_Nodal-range": {
+  "diff": -0.0146633762133081,
+  "p": 0.333,
+  "p_holm": 1.0
+ },
+ "pair_BAO_legacy_Nodal_ParametricLCDM": {
+  "diff": 6.15290394046054,
+  "p": 0.004,
+  "p_holm": 0.052
+ },
+ "pair_BAO_legacy_Nodal-range_ParametricLCDM": {
+  "diff": 6.167567316673848,
+  "p": 0.006,
+  "p_holm": 0.066
+ },
+ "pair_BAO_DESI_GP_Polynomial": {
+  "diff": -15.78911708231067,
+  "p": 0.356,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_GP_NN": {
+  "diff": -0.7962599435185904,
+  "p": 0.367,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_GP_Spline": {
+  "diff": -14.25141851687168,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_DESI_GP_Nodal": {
+  "diff": -6.888065359086502,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_DESI_GP_Nodal-range": {
+  "diff": -4.79276474324152,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_DESI_GP_ParametricLCDM": {
+  "diff": 5.380025263318737,
+  "p": 0.194,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_Polynomial_NN": {
+  "diff": 14.99285713879208,
+  "p": 0.328,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_Polynomial_Spline": {
+  "diff": 1.5376985654389903,
+  "p": 0.656,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_Polynomial_Nodal": {
+  "diff": 8.901051723224167,
+  "p": 0.659,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_Polynomial_Nodal-range": {
+  "diff": 10.99635233906915,
+  "p": 0.659,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_Polynomial_ParametricLCDM": {
+  "diff": 21.169142345629407,
+  "p": 0.237,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_NN_Spline": {
+  "diff": -13.455158573353089,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_DESI_NN_Nodal": {
+  "diff": -6.091805415567912,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_DESI_NN_Nodal-range": {
+  "diff": -3.9965047997229295,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_DESI_NN_ParametricLCDM": {
+  "diff": 6.176285206837328,
+  "p": 0.168,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_Spline_Nodal": {
+  "diff": 7.363353157785177,
+  "p": 0.659,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_Spline_Nodal-range": {
+  "diff": 9.45865377363016,
+  "p": 0.659,
+  "p_holm": 1.0
+ },
+ "pair_BAO_DESI_Spline_ParametricLCDM": {
+  "diff": 19.631443780190416,
+  "p": 0.016,
+  "p_holm": 0.208
+ },
+ "pair_BAO_DESI_Nodal_Nodal-range": {
+  "diff": 2.095300615844982,
+  "p": 0.053,
+  "p_holm": 0.636
+ },
+ "pair_BAO_DESI_Nodal_ParametricLCDM": {
+  "diff": 12.26809062240524,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_BAO_DESI_Nodal-range_ParametricLCDM": {
+  "diff": 10.172790006560255,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_legacy_v1_GP_Polynomial": {
+  "diff": -0.0657438099266849,
+  "p": 0.001,
+  "p_holm": 0.02
+ },
+ "pair_CC31+BAO_legacy_v1_GP_NN": {
+  "diff": -0.0088399799625502,
+  "p": 0.955,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_GP_Spline": {
+  "diff": -0.0016086633028467,
+  "p": 0.766,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_GP_Nodal": {
+  "diff": -0.303483595923827,
+  "p": 0.209,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_GP_Nodal-range": {
+  "diff": -0.0099258526968999,
+  "p": 0.973,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_GP_ParametricLCDM": {
+  "diff": 0.0822773001374304,
+  "p": 0.707,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Polynomial_NN": {
+  "diff": 0.0569038299641346,
+  "p": 0.088,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Polynomial_Spline": {
+  "diff": 0.0641351466238382,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_legacy_v1_Polynomial_Nodal": {
+  "diff": -0.237739785997142,
+  "p": 0.307,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Polynomial_Nodal-range": {
+  "diff": 0.055817957229785,
+  "p": 0.28,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Polynomial_ParametricLCDM": {
+  "diff": 0.1480211100641153,
+  "p": 0.558,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_NN_Spline": {
+  "diff": 0.0072313166597035,
+  "p": 0.988,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_NN_Nodal": {
+  "diff": -0.2946436159612767,
+  "p": 0.21,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_NN_Nodal-range": {
+  "diff": -0.0010858727343496,
+  "p": 0.994,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_NN_ParametricLCDM": {
+  "diff": 0.0911172800999806,
+  "p": 0.711,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Spline_Nodal": {
+  "diff": -0.3018749326209803,
+  "p": 0.216,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Spline_Nodal-range": {
+  "diff": -0.0083171893940532,
+  "p": 1.0,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Spline_ParametricLCDM": {
+  "diff": 0.0838859634402771,
+  "p": 0.678,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Nodal_Nodal-range": {
+  "diff": 0.293557743226927,
+  "p": 0.204,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Nodal_ParametricLCDM": {
+  "diff": 0.3857608960612574,
+  "p": 0.119,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_legacy_v1_Nodal-range_ParametricLCDM": {
+  "diff": 0.0922031528343303,
+  "p": 0.758,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_GP_Polynomial": {
+  "diff": 0.3310637915239296,
+  "p": 0.582,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_GP_NN": {
+  "diff": -0.9411221074378556,
+  "p": 0.22,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_GP_Spline": {
+  "diff": -0.1823588785931034,
+  "p": 0.197,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_GP_Nodal": {
+  "diff": -0.9142485347625664,
+  "p": 0.001,
+  "p_holm": 0.017
+ },
+ "pair_CC31+BAO_DESI_GP_Nodal-range": {
+  "diff": -2.16556029273506,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_DESI_GP_ParametricLCDM": {
+  "diff": 1.197149763602494,
+  "p": 0.193,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_Polynomial_NN": {
+  "diff": -1.2721858989617851,
+  "p": 0.599,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_Polynomial_Spline": {
+  "diff": -0.513422670117033,
+  "p": 0.581,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_Polynomial_Nodal": {
+  "diff": -1.245312326286496,
+  "p": 0.002,
+  "p_holm": 0.032
+ },
+ "pair_CC31+BAO_DESI_Polynomial_Nodal-range": {
+  "diff": -2.4966240842589897,
+  "p": 0.002,
+  "p_holm": 0.032
+ },
+ "pair_CC31+BAO_DESI_Polynomial_ParametricLCDM": {
+  "diff": 0.8660859720785645,
+  "p": 0.15,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_NN_Spline": {
+  "diff": 0.7587632288447521,
+  "p": 0.314,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_NN_Nodal": {
+  "diff": 0.0268735726752891,
+  "p": 1.0,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_NN_Nodal-range": {
+  "diff": -1.2244381852972044,
+  "p": 0.002,
+  "p_holm": 0.032
+ },
+ "pair_CC31+BAO_DESI_NN_ParametricLCDM": {
+  "diff": 2.1382718710403497,
+  "p": 0.2,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_Spline_Nodal": {
+  "diff": -0.731889656169463,
+  "p": 0.002,
+  "p_holm": 0.032
+ },
+ "pair_CC31+BAO_DESI_Spline_Nodal-range": {
+  "diff": -1.9832014141419565,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_DESI_Spline_ParametricLCDM": {
+  "diff": 1.3795086421955975,
+  "p": 0.169,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_Nodal_Nodal-range": {
+  "diff": -1.2513117579724935,
+  "p": 0.013,
+  "p_holm": 0.156
+ },
+ "pair_CC31+BAO_DESI_Nodal_ParametricLCDM": {
+  "diff": 2.1113982983650605,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_DESI_Nodal-range_ParametricLCDM": {
+  "diff": 3.362710056337554,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC32+BAO_DESI_GP_Polynomial": {
+  "diff": 0.3138509507890743,
+  "p": 0.532,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_GP_NN": {
+  "diff": -0.9409547393442864,
+  "p": 0.221,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_GP_Spline": {
+  "diff": -0.1788183700361039,
+  "p": 0.198,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_GP_Nodal": {
+  "diff": -0.8825673423317995,
+  "p": 0.005,
+  "p_holm": 0.07
+ },
+ "pair_CC32+BAO_DESI_GP_Nodal-range": {
+  "diff": -2.136908871907848,
+  "p": 0.002,
+  "p_holm": 0.042
+ },
+ "pair_CC32+BAO_DESI_GP_ParametricLCDM": {
+  "diff": 1.180884341469048,
+  "p": 0.205,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_Polynomial_NN": {
+  "diff": -1.2548056901333609,
+  "p": 0.569,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_Polynomial_Spline": {
+  "diff": -0.4926693208251782,
+  "p": 0.532,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_Polynomial_Nodal": {
+  "diff": -1.1964182931208738,
+  "p": 0.005,
+  "p_holm": 0.07
+ },
+ "pair_CC32+BAO_DESI_Polynomial_Nodal-range": {
+  "diff": -2.4507598226969223,
+  "p": 0.003,
+  "p_holm": 0.054
+ },
+ "pair_CC32+BAO_DESI_Polynomial_ParametricLCDM": {
+  "diff": 0.8670333906799735,
+  "p": 0.181,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_NN_Spline": {
+  "diff": 0.7621363693081826,
+  "p": 0.303,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_NN_Nodal": {
+  "diff": 0.058387397012487,
+  "p": 0.983,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_NN_Nodal-range": {
+  "diff": -1.1959541325635614,
+  "p": 0.003,
+  "p_holm": 0.054
+ },
+ "pair_CC32+BAO_DESI_NN_ParametricLCDM": {
+  "diff": 2.1218390808133343,
+  "p": 0.207,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_Spline_Nodal": {
+  "diff": -0.7037489722956956,
+  "p": 0.003,
+  "p_holm": 0.054
+ },
+ "pair_CC32+BAO_DESI_Spline_Nodal-range": {
+  "diff": -1.958090501871744,
+  "p": 0.002,
+  "p_holm": 0.042
+ },
+ "pair_CC32+BAO_DESI_Spline_ParametricLCDM": {
+  "diff": 1.3597027115051517,
+  "p": 0.191,
+  "p_holm": 1.0
+ },
+ "pair_CC32+BAO_DESI_Nodal_Nodal-range": {
+  "diff": -1.2543415295760485,
+  "p": 0.009,
+  "p_holm": 0.1079999999999999
+ },
+ "pair_CC32+BAO_DESI_Nodal_ParametricLCDM": {
+  "diff": 2.063451683800847,
+  "p": 0.004,
+  "p_holm": 0.06
+ },
+ "pair_CC32+BAO_DESI_Nodal-range_ParametricLCDM": {
+  "diff": 3.317793213376896,
+  "p": 0.002,
+  "p_holm": 0.042
+ },
+ "pair_CC31+BAO_DESI_rd-2%_GP_Polynomial": {
+  "diff": -0.5209277762271376,
+  "p": 0.146,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_GP_NN": {
+  "diff": -1.1773452483208011,
+  "p": 0.211,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_GP_Spline": {
+  "diff": 0.0363013120879638,
+  "p": 0.518,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_GP_Nodal": {
+  "diff": -0.9610596795751568,
+  "p": 0.003,
+  "p_holm": 0.051
+ },
+ "pair_CC31+BAO_DESI_rd-2%_GP_Nodal-range": {
+  "diff": -2.1184507077235604,
+  "p": 0.001,
+  "p_holm": 0.02
+ },
+ "pair_CC31+BAO_DESI_rd-2%_GP_ParametricLCDM": {
+  "diff": 1.235795171041969,
+  "p": 0.281,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Polynomial_NN": {
+  "diff": -0.6564174720936635,
+  "p": 0.606,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Polynomial_Spline": {
+  "diff": 0.5572290883151014,
+  "p": 0.148,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Polynomial_Nodal": {
+  "diff": -0.4401319033480191,
+  "p": 0.025,
+  "p_holm": 0.3
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Polynomial_Nodal-range": {
+  "diff": -1.5975229314964228,
+  "p": 0.002,
+  "p_holm": 0.036
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Polynomial_ParametricLCDM": {
+  "diff": 1.7567229472691066,
+  "p": 0.189,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_NN_Spline": {
+  "diff": 1.213646560408765,
+  "p": 0.277,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_NN_Nodal": {
+  "diff": 0.2162855687456444,
+  "p": 0.8,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_NN_Nodal-range": {
+  "diff": -0.9411054594027592,
+  "p": 0.003,
+  "p_holm": 0.051
+ },
+ "pair_CC31+BAO_DESI_rd-2%_NN_ParametricLCDM": {
+  "diff": 2.41314041936277,
+  "p": 0.239,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Spline_Nodal": {
+  "diff": -0.9973609916631204,
+  "p": 0.003,
+  "p_holm": 0.051
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Spline_Nodal-range": {
+  "diff": -2.154752019811524,
+  "p": 0.001,
+  "p_holm": 0.02
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Spline_ParametricLCDM": {
+  "diff": 1.1994938589540052,
+  "p": 0.255,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Nodal_Nodal-range": {
+  "diff": -1.1573910281484037,
+  "p": 0.011,
+  "p_holm": 0.143
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Nodal_ParametricLCDM": {
+  "diff": 2.1968548506171257,
+  "p": 0.004,
+  "p_holm": 0.056
+ },
+ "pair_CC31+BAO_DESI_rd-2%_Nodal-range_ParametricLCDM": {
+  "diff": 3.3542458787655294,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_GP_Polynomial": {
+  "diff": 0.9911452285802131,
+  "p": 0.625,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_GP_NN": {
+  "diff": -0.7204791044898937,
+  "p": 0.15,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_GP_Spline": {
+  "diff": -0.3698956562356805,
+  "p": 0.21,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_GP_Nodal": {
+  "diff": -0.9176174050195174,
+  "p": 0.001,
+  "p_holm": 0.017
+ },
+ "pair_CC31+BAO_DESI_rd+2%_GP_Nodal-range": {
+  "diff": -2.2561225213437277,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_GP_ParametricLCDM": {
+  "diff": 1.1381263486412725,
+  "p": 0.141,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Polynomial_NN": {
+  "diff": -1.711624333070107,
+  "p": 0.607,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Polynomial_Spline": {
+  "diff": -1.361040884815894,
+  "p": 0.621,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Polynomial_Nodal": {
+  "diff": -1.9087626335997308,
+  "p": 0.002,
+  "p_holm": 0.03
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Polynomial_Nodal-range": {
+  "diff": -3.2472677499239406,
+  "p": 0.001,
+  "p_holm": 0.017
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Polynomial_ParametricLCDM": {
+  "diff": 0.1469811200610591,
+  "p": 0.082,
+  "p_holm": 0.902
+ },
+ "pair_CC31+BAO_DESI_rd+2%_NN_Spline": {
+  "diff": 0.3505834482542131,
+  "p": 0.253,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_NN_Nodal": {
+  "diff": -0.1971383005296236,
+  "p": 0.643,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_NN_Nodal-range": {
+  "diff": -1.5356434168538335,
+  "p": 0.002,
+  "p_holm": 0.03
+ },
+ "pair_CC31+BAO_DESI_rd+2%_NN_ParametricLCDM": {
+  "diff": 1.8586054531311664,
+  "p": 0.114,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Spline_Nodal": {
+  "diff": -0.5477217487838368,
+  "p": 0.071,
+  "p_holm": 0.8519999999999999
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Spline_Nodal-range": {
+  "diff": -1.8862268651080467,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Spline_ParametricLCDM": {
+  "diff": 1.508022004876953,
+  "p": 0.131,
+  "p_holm": 1.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Nodal_Nodal-range": {
+  "diff": -1.33850511632421,
+  "p": 0.028,
+  "p_holm": 0.364
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Nodal_ParametricLCDM": {
+  "diff": 2.05574375366079,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "pair_CC31+BAO_DESI_rd+2%_Nodal-range_ParametricLCDM": {
+  "diff": 3.394248869985,
+  "p": 0.0,
+  "p_holm": 0.0
+ },
+ "ks_CC31_GP": 0.3139513619855132,
+ "rstd_CC31_GP": 0.8408070787217693,
+ "ks_CC31_ParametricLCDM": 0.08539870129017169,
+ "rstd_CC31_ParametricLCDM": 0.7869550450000766,
+ "ks_BAO_legacy_v1_GP": 0.3439913333787007,
+ "rstd_BAO_legacy_v1_GP": 0.41505151095831144,
+ "ks_BAO_legacy_v1_ParametricLCDM": 0.5249738249528179,
+ "rstd_BAO_legacy_v1_ParametricLCDM": 0.5380231968820112,
+ "ks_BAO_legacy_GP": 0.6127060030356009,
+ "rstd_BAO_legacy_GP": 6.800912188950296,
+ "ks_BAO_legacy_ParametricLCDM": 0.9836389944540761,
+ "rstd_BAO_legacy_ParametricLCDM": 0.8136512901994649,
+ "ks_BAO_DESI_GP": 0.666998714415366,
+ "rstd_BAO_DESI_GP": 6.58172204633661,
+ "ks_BAO_DESI_ParametricLCDM": 0.3913184298429745,
+ "rstd_BAO_DESI_ParametricLCDM": 1.5509597711806271,
+ "ks_CC31+BAO_DESI_GP": 0.3751540241623532,
+ "rstd_CC31+BAO_DESI_GP": 1.9837050308695323,
+ "ks_CC31+BAO_DESI_ParametricLCDM": 0.5739785146117117,
+ "rstd_CC31+BAO_DESI_ParametricLCDM": 0.8098225553880742,
+ "nodal_BAO_legacy_v1_v1 [0,2] K8": {
+  "chi": 7.464699135078668,
+  "n_extrap": 4,
+  "chi_in": 0.5191570809137457,
+  "maxr": 16.727071782908162
+ },
+ "nodal_BAO_legacy_v1_range K8": {
+  "chi": 0.7424252825651673,
+  "n_extrap": 5,
+  "chi_in": 0.6202543825009276,
+  "maxr": 1.8581867414455029
+ },
+ "nodal_BAO_legacy_v1_range K4": {
+  "chi": 1.1121875663022371,
+  "n_extrap": 7,
+  "chi_in": 0.8221042152528341,
+  "maxr": 3.0747085986793232
+ },
+ "nodal_BAO_legacy_v1_quantile K4": {
+  "chi": 4.115356693124324,
+  "n_extrap": 4,
+  "chi_in": 0.5705120890755229,
+  "maxr": 9.219911504424775
+ },
+ "nodal_BAO_legacy_v1 [0,2] K8": {
+  "chi": 6.967020129652026,
+  "n_extrap": 3,
+  "chi_in": 1.1941646271278905,
+  "maxr": 18.130215384424588
+ },
+ "nodal_BAO_legacy_range K8": {
+  "chi": 6.981683505865334,
+  "n_extrap": 2,
+  "chi_in": 1.2062205011582303,
+  "maxr": 18.130215384424588
+ },
+ "nodal_BAO_legacy_range K4": {
+  "chi": 7.5586063577480225,
+  "n_extrap": 4,
+  "chi_in": 1.559674399481265,
+  "maxr": 19.313677071515283
+ },
+ "nodal_BAO_legacy_quantile K4": {
+  "chi": 6.885399399229444,
+  "n_extrap": 2,
+  "chi_in": 1.3626823575840386,
+  "maxr": 17.814285714285713
+ },
+ "nodal_BAO_desi_v1 [0,2] K8": {
+  "chi": 13.879994689349449,
+  "n_extrap": 3,
+  "chi_in": 3.2893685955141203,
+  "maxr": 32.82155708226355
+ },
+ "nodal_BAO_desi_range K8": {
+  "chi": 11.784694073504468,
+  "n_extrap": 2,
+  "chi_in": 1.8696872675048628,
+  "maxr": 27.90609934052624
+ },
+ "nodal_BAO_desi_range K4": {
+  "chi": 12.25597211138774,
+  "n_extrap": 3,
+  "chi_in": 2.0248687807000425,
+  "maxr": 27.90609934052624
+ },
+ "nodal_BAO_desi_quantile K4": {
+  "chi": 12.24557712813422,
+  "n_extrap": 3,
+  "chi_in": 1.894916143525448,
+  "maxr": 27.90609934052624
+ },
+ "nodal_CC31_v1 [0,2] K8": {
+  "chi": 0.8226168296339023,
+  "n_extrap": 4,
+  "chi_in": 0.8688257999426331,
+  "maxr": 2.757429255275846
+ },
+ "nodal_CC31_range K8": {
+  "chi": 0.8178694133254397,
+  "n_extrap": 6,
+  "chi_in": 0.8706389379192904,
+  "maxr": 2.796699151854237
+ },
+ "nodal_CC31_range K4": {
+  "chi": 0.8638678955310104,
+  "n_extrap": 11,
+  "chi_in": 0.924348941483034,
+  "maxr": 3.120966815264081
+ },
+ "nodal_CC31_quantile K4": {
+  "chi": 0.7345216308519498,
+  "n_extrap": 10,
+  "chi_in": 0.6434368701327909,
+  "maxr": 1.542865333851509
+ },
+ "ctrl_CC31_ParametricLCDM": {
+  "rmse_med": 2.69347460889178,
+  "chi_med": 0.9932033950009487,
+  "chi_lo": 0.8928786966345826,
+  "chi_hi": 1.2303572103627936
+ },
+ "ctrl_CC31_GP": {
+  "rmse_med": 10.257667399969257,
+  "chi_med": 0.9989886037875768,
+  "chi_lo": 0.9367531138329243,
+  "chi_hi": 1.1868522392297771
+ },
+ "ctrl_CC31_Polynomial": {
+  "rmse_med": 9.04385589439288,
+  "chi_med": 1.0983606402678778,
+  "chi_lo": 0.9820478575686549,
+  "chi_hi": 1.3800604871138464
+ },
+ "ctrl_CC31_NN": {
+  "rmse_med": 12.452298664633727,
+  "chi_med": 1.1296632807651286,
+  "chi_lo": 1.0250840369675995,
+  "chi_hi": 1.3996626442555857
+ },
+ "ctrl_CC31_Spline": {
+  "rmse_med": 8.910825027247109,
+  "chi_med": 1.03252850594217,
+  "chi_lo": 0.9380216607590368,
+  "chi_hi": 1.4495239917471712
+ },
+ "ctrl_CC31_Nodal": {
+  "rmse_med": 11.86550722045542,
+  "chi_med": 1.068902967066087,
+  "chi_lo": 0.9792926770269119,
+  "chi_hi": 1.345213099801535
+ },
+ "ctrl_CC31_Nodal-range": {
+  "rmse_med": 11.74455482707808,
+  "chi_med": 1.0712915131384808,
+  "chi_lo": 0.9613659670447756,
+  "chi_hi": 1.387579599838934
+ },
+ "ctrl_rho_CC31": 0.09999999999999999,
+ "ctrl_power_CC31_Polynomial": 0.2,
+ "ctrl_gpbetter_CC31_Polynomial": 0.85,
+ "ctrl_power_CC31_NN": 0.3,
+ "ctrl_gpbetter_CC31_NN": 0.8,
+ "ctrl_power_CC31_Spline": 0.05,
+ "ctrl_gpbetter_CC31_Spline": 0.7,
+ "ctrl_power_CC31_Nodal": 0.2,
+ "ctrl_gpbetter_CC31_Nodal": 0.8,
+ "ctrl_power_CC31_Nodal-range": 0.25,
+ "ctrl_gpbetter_CC31_Nodal-range": 0.75,
+ "ctrl_n_CC31": 20,
+ "ctrl_BAO_legacy_v1_ParametricLCDM": {
+  "rmse_med": 2.3803938600822407,
+  "chi_med": 1.1312407457155684,
+  "chi_lo": 0.8320684412025023,
+  "chi_hi": 1.4974646344275842
+ },
+ "ctrl_BAO_legacy_v1_GP": {
+  "rmse_med": 6.602620892155574,
+  "chi_med": 1.105495118102723,
+  "chi_lo": 0.8940705435000926,
+  "chi_hi": 1.531458495835131
+ },
+ "ctrl_BAO_legacy_v1_Polynomial": {
+  "rmse_med": 33.72051949070612,
+  "chi_med": 3.324657219382486,
+  "chi_lo": 1.4329303478981072,
+  "chi_hi": 5.522191646934238
+ },
+ "ctrl_BAO_legacy_v1_NN": {
+  "rmse_med": 10.29255544406612,
+  "chi_med": 1.1314731569318048,
+  "chi_lo": 0.9218842420167499,
+  "chi_hi": 1.6889335821803775
+ },
+ "ctrl_BAO_legacy_v1_Spline": {
+  "rmse_med": 16.386430151507437,
+  "chi_med": 1.2571811172584255,
+  "chi_lo": 0.9719085824470054,
+  "chi_hi": 2.1080975640492285
+ },
+ "ctrl_BAO_legacy_v1_Nodal": {
+  "rmse_med": 71.61799489993933,
+  "chi_med": 8.196632977035335,
+  "chi_lo": 7.7118001914867795,
+  "chi_hi": 8.429265373871011
+ },
+ "ctrl_BAO_legacy_v1_Nodal-range": {
+  "rmse_med": 9.846677119693574,
+  "chi_med": 1.5891587861160734,
+  "chi_lo": 1.2986216021452535,
+  "chi_hi": 2.0058887348657852
+ },
+ "ctrl_rho_BAO_legacy_v1": 0.8499999999999999,
+ "ctrl_power_BAO_legacy_v1_Polynomial": 0.7,
+ "ctrl_gpbetter_BAO_legacy_v1_Polynomial": 0.9333333333333333,
+ "ctrl_power_BAO_legacy_v1_NN": 0.13333333333333333,
+ "ctrl_gpbetter_BAO_legacy_v1_NN": 0.7333333333333333,
+ "ctrl_power_BAO_legacy_v1_Spline": 0.26666666666666666,
+ "ctrl_gpbetter_BAO_legacy_v1_Spline": 0.8666666666666667,
+ "ctrl_power_BAO_legacy_v1_Nodal": 0.7666666666666667,
+ "ctrl_gpbetter_BAO_legacy_v1_Nodal": 1.0,
+ "ctrl_power_BAO_legacy_v1_Nodal-range": 0.23333333333333334,
+ "ctrl_gpbetter_BAO_legacy_v1_Nodal-range": 0.7666666666666667,
+ "ctrl_n_BAO_legacy_v1": 30,
+ "ctrl_BAO_legacy_ParametricLCDM": {
+  "rmse_med": 3.338095288153944,
+  "chi_med": 1.2202455965386845,
+  "chi_lo": 0.7985063750231464,
+  "chi_hi": 2.6337816143052812
+ },
+ "ctrl_BAO_legacy_GP": {
+  "rmse_med": 7.938071752944802,
+  "chi_med": 8.198101999213463,
+  "chi_lo": 7.88160921858795,
+  "chi_hi": 8.647296993655683
+ },
+ "ctrl_BAO_legacy_Polynomial": {
+  "rmse_med": 111.84201728906476,
+  "chi_med": 14122.569308612563,
+  "chi_lo": 4564.9416402739225,
+  "chi_hi": 22164.214195323737
+ },
+ "ctrl_BAO_legacy_NN": {
+  "rmse_med": 15.21234541395625,
+  "chi_med": 7.236994095757932,
+  "chi_lo": 6.744864586981372,
+  "chi_hi": 7.768453604785204
+ },
+ "ctrl_BAO_legacy_Spline": {
+  "rmse_med": 20.04335539931497,
+  "chi_med": 116.73764391189435,
+  "chi_lo": 48.76898156797493,
+  "chi_hi": 326.0116867055966
+ },
+ "ctrl_BAO_legacy_Nodal": {
+  "rmse_med": 70.49145200658079,
+  "chi_med": 8.040504744526077,
+  "chi_lo": 7.808432047515018,
+  "chi_hi": 8.579607932505395
+ },
+ "ctrl_BAO_legacy_Nodal-range": {
+  "rmse_med": 11.466868929726507,
+  "chi_med": 7.990553113094421,
+  "chi_lo": 7.72147931878185,
+  "chi_hi": 8.525605232397684
+ },
+ "ctrl_rho_BAO_legacy": 0.3,
+ "ctrl_power_BAO_legacy_Polynomial": 0.9333333333333333,
+ "ctrl_gpbetter_BAO_legacy_Polynomial": 1.0,
+ "ctrl_power_BAO_legacy_NN": 0.0,
+ "ctrl_gpbetter_BAO_legacy_NN": 0.06666666666666667,
+ "ctrl_power_BAO_legacy_Spline": 0.5666666666666667,
+ "ctrl_gpbetter_BAO_legacy_Spline": 0.9333333333333333,
+ "ctrl_power_BAO_legacy_Nodal": 0.06666666666666667,
+ "ctrl_gpbetter_BAO_legacy_Nodal": 0.13333333333333333,
+ "ctrl_power_BAO_legacy_Nodal-range": 0.0,
+ "ctrl_gpbetter_BAO_legacy_Nodal-range": 0.13333333333333333,
+ "ctrl_n_BAO_legacy": 30,
+ "ctrl_BAO_desi_ParametricLCDM": {
+  "rmse_med": 1.1277509622417028,
+  "chi_med": 1.2454862054628744,
+  "chi_lo": 0.7220549969859378,
+  "chi_hi": 1.6461843309594044
+ },
+ "ctrl_BAO_desi_GP": {
+  "rmse_med": 2.0467211209928338,
+  "chi_med": 7.284939902898829,
+  "chi_lo": 5.781654685112452,
+  "chi_hi": 11.190885737871337
+ },
+ "ctrl_BAO_desi_Polynomial": {
+  "rmse_med": 5.278328723566181,
+  "chi_med": 57.33596544542978,
+  "chi_lo": 15.590140656165136,
+  "chi_hi": 122.55487115320453
+ },
+ "ctrl_BAO_desi_NN": {
+  "rmse_med": 3.757833113962228,
+  "chi_med": 8.771480546640184,
+  "chi_lo": 7.243523422339955,
+  "chi_hi": 10.626921915743846
+ },
+ "ctrl_BAO_desi_Spline": {
+  "rmse_med": 2.0408084855978044,
+  "chi_med": 12.205427013064092,
+  "chi_lo": 4.181228149080285,
+  "chi_hi": 22.706074537940005
+ },
+ "ctrl_BAO_desi_Nodal": {
+  "rmse_med": 37.32172335425082,
+  "chi_med": 13.993407414147061,
+  "chi_lo": 13.55772585338727,
+  "chi_hi": 14.409237289336113
+ },
+ "ctrl_BAO_desi_Nodal-range": {
+  "rmse_med": 5.650565757725122,
+  "chi_med": 12.24648082873874,
+  "chi_lo": 11.47372342135896,
+  "chi_hi": 12.96652014763764
+ },
+ "ctrl_rho_BAO_desi": 0.35,
+ "ctrl_power_BAO_desi_Polynomial": 0.8666666666666667,
+ "ctrl_gpbetter_BAO_desi_Polynomial": 0.9,
+ "ctrl_power_BAO_desi_NN": 0.4,
+ "ctrl_gpbetter_BAO_desi_NN": 0.7666666666666667,
+ "ctrl_power_BAO_desi_Spline": 0.4,
+ "ctrl_gpbetter_BAO_desi_Spline": 0.7,
+ "ctrl_power_BAO_desi_Nodal": 0.7666666666666667,
+ "ctrl_gpbetter_BAO_desi_Nodal": 0.9333333333333333,
+ "ctrl_power_BAO_desi_Nodal-range": 0.8,
+ "ctrl_gpbetter_BAO_desi_Nodal-range": 0.9,
+ "ctrl_n_BAO_desi": 30,
+ "ctrl_CC31+BAO_desi_ParametricLCDM": {
+  "rmse_med": 0.8526880710340999,
+  "chi_med": 0.9979289024933957,
+  "chi_lo": 0.8887194023776386,
+  "chi_hi": 1.1252102324316953
+ },
+ "ctrl_CC31+BAO_desi_GP": {
+  "rmse_med": 1.973852871926777,
+  "chi_med": 2.449485962643089,
+  "chi_lo": 1.7496511602849654,
+  "chi_hi": 3.056942072750529
+ },
+ "ctrl_CC31+BAO_desi_Polynomial": {
+  "rmse_med": 2.5635575457820075,
+  "chi_med": 4.577050958388166,
+  "chi_lo": 2.50454305255695,
+  "chi_hi": 11.377356769846433
+ },
+ "ctrl_CC31+BAO_desi_NN": {
+  "rmse_med": 2.3958192955433177,
+  "chi_med": 3.0654311208340523,
+  "chi_lo": 2.5306927340126135,
+  "chi_hi": 3.5434821375282306
+ },
+ "ctrl_CC31+BAO_desi_Spline": {
+  "rmse_med": 1.8179875489588948,
+  "chi_med": 2.7425697028906875,
+  "chi_lo": 1.5090840182150933,
+  "chi_hi": 5.266724071774325
+ },
+ "ctrl_CC31+BAO_desi_Nodal": {
+  "rmse_med": 15.327952100282188,
+  "chi_med": 3.152223971447998,
+  "chi_lo": 1.8061414780684788,
+  "chi_hi": 3.929796574429764
+ },
+ "ctrl_CC31+BAO_desi_Nodal-range": {
+  "rmse_med": 9.705415011826766,
+  "chi_med": 3.1506450250950992,
+  "chi_lo": 2.302916173397131,
+  "chi_hi": 4.55466189324017
+ },
+ "ctrl_rho_CC31+BAO_desi": -0.09999999999999999,
+ "ctrl_power_CC31+BAO_desi_Polynomial": 0.4,
+ "ctrl_gpbetter_CC31+BAO_desi_Polynomial": 0.9,
+ "ctrl_power_CC31+BAO_desi_NN": 0.5,
+ "ctrl_gpbetter_CC31+BAO_desi_NN": 0.7,
+ "ctrl_power_CC31+BAO_desi_Spline": 0.1,
+ "ctrl_gpbetter_CC31+BAO_desi_Spline": 0.5,
+ "ctrl_power_CC31+BAO_desi_Nodal": 0.3,
+ "ctrl_gpbetter_CC31+BAO_desi_Nodal": 0.5,
+ "ctrl_power_CC31+BAO_desi_Nodal-range": 0.4,
+ "ctrl_gpbetter_CC31+BAO_desi_Nodal-range": 0.8,
+ "ctrl_n_CC31+BAO_desi": 10,
+ "cov_GP (GLS)": {
+  "meas": 0.8741908201304436,
+  "model": 0.6869158675425499
+ },
+ "cov_Polynomial (GLS)": {
+  "meas": 0.9680465046915748,
+  "model": 0.8072929384043075
+ },
+ "cov_NN (GLS)": {
+  "meas": 0.7280447270758886,
+  "model": 0.6469814245836899
+ },
+ "cov_GP (diag)": {
+  "meas": 0.6761741946024767,
+  "model": 0.6606093695247914
+ },
+ "cov_Polynomial (diag)": {
+  "meas": 0.7847425928873882,
+  "model": 0.7549606328757261
+ },
+ "cov_NN (diag)": {
+  "meas": 0.695349623325508,
+  "model": 0.6798350715713942
+ },
+ "cov_Spline (diag)": {
+  "meas": 0.7013284791488186,
+  "model": 0.679177404595532
+ },
+ "cov_Nodal (diag)": {
+  "meas": 0.65849624464241,
+  "model": 0.6453039311052364
+ },
+ "nnseed_1": {
+  "min": 0.8658093073078501,
+  "max": 1.265160394429905,
+  "within_real_sd": 0.05398420421756136,
+  "gp": 0.42762313205798724,
+  "poly": 0.45087952046855745
+ },
+ "nnseed_3": {
+  "min": 1.4275045942906042,
+  "max": 1.8642104039015952,
+  "within_real_sd": 0.10536753278073134,
+  "gp": 1.1480266799595178,
+  "poly": 1.35140975745111
+ },
+ "nnseed_5": {
+  "min": 2.218552541864624,
+  "max": 2.7294893657318564,
+  "within_real_sd": 0.17127204561437945,
+  "gp": 1.7171712091149545,
+  "poly": 2.2519612226691152
+ },
+ "nnimpl": {
+  "torch": 1.527611216223233,
+  "numpy": 1.3507397718599816,
+  "cross_mean": 0.5463322553593659,
+  "cross_med": 0.4466323950137526,
+  "seed0": {
+   "seed": 0.0,
+   "rmse_torch": 1.390747244565776,
+   "rmse_numpy": 1.236580111742756,
+   "cross": 0.5660133359868702
+  }
+ },
+ "nnseed_realcc": {
+  "min": 0.8342743284534699,
+  "max": 0.8901558921872527,
+  "vals": [
+   0.89,
+   0.841,
+   0.834,
+   0.863,
+   0.841,
+   0.861
+  ]
+ },
+ "tuned_GP_1": {
+  "base": 0.36726250764524543,
+  "tuned": 0.39700153360524576,
+  "mode": 4.0
+ },
+ "tuned_GP_3": {
+  "base": 0.9985541167050669,
+  "tuned": 1.0220585326679765,
+  "mode": 4.0
+ },
+ "tuned_GP_5": {
+  "base": 1.611931400050386,
+  "tuned": 1.5459556460001151,
+  "mode": 4.0
+ },
+ "tuned_Polynomial_1": {
+  "base": 0.3996043724727911,
+  "tuned": 0.3790809675979312,
+  "mode": 3.0
+ },
+ "tuned_Polynomial_3": {
+  "base": 1.198206007520133,
+  "tuned": 1.1340569648938406,
+  "mode": 3.0
+ },
+ "tuned_Polynomial_5": {
+  "base": 1.9968383537914705,
+  "tuned": 1.8227864585099978,
+  "mode": 3.0
+ },
+ "tuned_NN_1": {
+  "base": 0.6505198159827565,
+  "tuned": 0.7331973833261078,
+  "mode": 1e-05
+ },
+ "tuned_NN_3": {
+  "base": 1.2736231549248391,
+  "tuned": 1.5263385829569913,
+  "mode": 0.001
+ },
+ "tuned_NN_5": {
+  "base": 2.0204586197301,
+  "tuned": 2.235408811228802,
+  "mode": 0.001
+ },
+ "tuned_Spline_1": {
+  "base": 0.8686949232022211,
+  "tuned": 0.32160340995750397,
+  "mode": 2.0
+ },
+ "tuned_Spline_3": {
+  "base": 2.6029039864619796,
+  "tuned": 0.9527467341606862,
+  "mode": 2.0
+ },
+ "tuned_Spline_5": {
+  "base": 4.333404002948019,
+  "tuned": 1.5868116897791351,
+  "mode": 2.0
+ },
+ "tuned_Nodal_1": {
+  "base": 2.797089958549588,
+  "tuned": 2.157783415767448,
+  "mode": 12.0
+ },
+ "tuned_Nodal_3": {
+  "base": 2.861475163623003,
+  "tuned": 2.3684455748898636,
+  "mode": 10.0
+ },
+ "tuned_Nodal_5": {
+  "base": 3.1120312942336152,
+  "tuned": 2.937189936778767,
+  "mode": 10.0
+ },
+ "tuned_rank_1": [
+  "Spline",
+  "Polynomial",
+  "GP",
+  "NN",
+  "Nodal"
+ ],
+ "tuned_pair_1": {
+  "a": "Spline",
+  "b": "Polynomial",
+  "diff": -0.05747755764042722,
+  "p_boot": 0.0424,
+  "p_wil": 0.21875
+ },
+ "tuned_rank_3": [
+  "Spline",
+  "GP",
+  "Polynomial",
+  "NN",
+  "Nodal"
+ ],
+ "tuned_pair_3": {
+  "a": "Spline",
+  "b": "GP",
+  "diff": -0.06931179850729023,
+  "p_boot": 0.0996,
+  "p_wil": 0.21875
+ },
+ "tuned_rank_5": [
+  "GP",
+  "Spline",
+  "Polynomial",
+  "NN",
+  "Nodal"
+ ],
+ "tuned_pair_5": {
+  "a": "GP",
+  "b": "Spline",
+  "diff": -0.04085604377901977,
+  "p_boot": 0.648,
+  "p_wil": 0.84375
+ }
+}

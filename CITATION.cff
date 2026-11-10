@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+title: "hubble-reconstruction-benchmark"
+authors:
+  - family-names: Mukherjee
+    given-names: Debarshi
+    affiliation: Raman Research Institute
+repository-code: "https://github.com/debarshiphysics09/Neural-Network-based-Hubble-Parameter-Reconstruction"
+license: MIT
